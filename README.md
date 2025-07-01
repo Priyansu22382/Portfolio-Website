@@ -34,11 +34,14 @@ This is my personal **portfolio website** designed to showcase my **projects**, 
 
 ## 🧩 Folder Structure
 
-📁 Portfolio-Website
-├── 📄 index.html
-├── 📄 style.css
-├── 📄 script.js
-└── 📁 assets/ (images, icons, logos, etc.)
+Portfolio-Website/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+├── images/
+├── icons/
+└── logos/
 
 ---
 
