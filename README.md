@@ -8,7 +8,7 @@ This is my personal **portfolio website** designed to showcase my **projects**, 
 
 ## 🚀 Live Demo
 
-🖥️ [Visit My Portfolio](https://portfolio-website-priyanshus-projects-d73f6a02.vercel.app/)
+🖥️ [Visit My Portfolio](https://priyansu22382.github.io/Portfolio-Website/)
 
 ---
 
